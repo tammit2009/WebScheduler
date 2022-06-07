@@ -1,0 +1,7 @@
+{
+    "logConfig": {
+        "logFolder": "logs",
+        "logFile": "WinSchedulerApp-%DATE%.log",
+        "logLevel": "info"
+    }
+}
