@@ -1,5 +1,8 @@
 require('colors');
 
+// environment config
+require('dotenv').config(); 
+
 const readline = require('readline');
 var events = require('events');
 class _events extends events{};
